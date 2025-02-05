@@ -1,5 +1,4 @@
 vless://82fccb96-4d9e-4748-c04b-80cc1d07bdaf@xui.ywmeis.com:443?host=xui.ywmeis.com&path=%2Fdate2021&type=ws&encryption=none&security=tls&sni=xui.ywmeis.com#G_xray%20ws%20tls
-
 vless://692bccd7-9168-4352-e9e8-e7006dc05d50@orc.banoos.com:14630?host=orc.banoos.com&path=%2Fwsd&type=ws&encryption=none&security=tls&sni=orc.banoos.com#orc_vless_ws_tls_14630
 vless://d63ac5c6-b844-4ae6-f6df-d1e42a0aba25@132.226.170.156:43875?headerType=none&type=tcp&encryption=none#orc_vless_shiyan
 vless://8ffc628a-0f48-4d88-8ba9-eda411d5651a@162.159.245.220:443?host=vs.banoos.com&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=vs.banoos.com#vs.banoos.com
@@ -18,4 +17,3 @@ vless://df22c777-334f-4aff-a2eb-da463912ab6d@140.238.63.11:16341?type=tcp&securi
 vless://66fe4381-3538-420e-ece8-7df38c81d469@jor.banoos.com:51918?type=tcp&security=reality&sni=www.speedtest.net&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&flow=&fp=chrome#Jp2_CY|yMvZ.love@xray.com
 vless://0a6f7747-9ea2-4519-b9ad-3cb13e435b56@jor.banoos.com:23302?type=tcp&security=reality&sni=addons.mozilla.org&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&flow=&fp=chrome#Jp2_Pub|Ny2C.love@xray.com
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJKUDJfdm18Z1Q0by5sb3ZlQHhyYXkuY29tIiwKICAiYWRkIjogImpvci5iYW5vb3MuY29tIiwKICAicG9ydCI6IDQ3MzQwLAogICJpZCI6ICIwNGE1ZjM0My1kYjQyLTRhOTEtOWFkNC1kODM2M2Q2YjA1YjgiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
-
