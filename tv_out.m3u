@@ -38,15 +38,18 @@ http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 http://oj33.ywmeis.com:58888/rtp/233.50.201.35:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://oj33.ywmeis.com:58888/rtp/233.50.201.126:5140
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-Español
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN-Español" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-Español
 http://oj33.ywmeis.com:58888/rtp/233.50.201.36:5140
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-Français
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN-Français" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-Français
 http://oj33.ywmeis.com:58888/rtp/233.50.201.37:5140
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-العربية
+#EXTINF:-1 tvg-id="20" tvg-name="CGTNCGTN-العربية" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-العربية
 http://oj33.ywmeis.com:58888/rtp/233.50.201.38:5140
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-Pусский
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN-Pусский" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-Pусский
 http://oj33.ywmeis.com:58888/rtp/233.50.201.39:5140
-
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",中国教育一套
+http://oj33.ywmeis.com:58888/rtp/233.50.201.75:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",中国教育四套
+http://oj33.ywmeis.com:58888/rtp/233.50.201.172:5140
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -539,169 +542,129 @@ http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8#http://39.134.18.66/
 http://39.134.18.68/PLTV/88888888/224/3221232384/index.m3u8#http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭电影" tvg-logo="" group-title="电影",CHC家庭电影
 http://39.134.18.68/PLTV/88888888/224/3221232379/index.m3u8#http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",院线大片
+#EXTINF:-1 tvg-id="院线大片" tvg-name="院线大片" tvg-logo="" group-title="电影",院线大片
 http://oj33.ywmeis.com:58888/rtp/233.50.201.229:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",喜剧电影
+#EXTINF:-1 tvg-id="喜剧电影" tvg-name="喜剧电影" tvg-logo="" group-title="电影",喜剧电影
 http://oj33.ywmeis.com:58888/rtp/233.50.201.249:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",经典港片
+#EXTINF:-1 tvg-id="经典港片" tvg-name="经典港片" tvg-logo="" group-title="电影",经典港片
 http://oj33.ywmeis.com:58888/rtp/233.50.201.250:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",芒果热综
+#EXTINF:-1 tvg-id="芒果热综" tvg-name="芒果热综" tvg-logo="" group-title="电影",芒果热综
 http://oj33.ywmeis.com:58888/rtp/233.50.201.251:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",首映电影
+#EXTINF:-1 tvg-id="首映电影" tvg-name="首映电影" tvg-logo="" group-title="电影",首映电影
 http://oj33.ywmeis.com:58888/rtp/233.50.201.239:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",环球电影
+#EXTINF:-1 tvg-id="环球电影" tvg-name="环球电影" tvg-logo="" group-title="电影",环球电影
 http://oj33.ywmeis.com:58888/rtp/233.50.201.231:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",动作影院
+#EXTINF:-1 tvg-id="动作影院" tvg-name="动作影院" tvg-logo="" group-title="电影",动作影院
 http://oj33.ywmeis.com:58888/rtp/233.50.201.232:5140
 #EXTINF:-1 tvg-id="6650" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="电影",欧美影院
 http://oj33.ywmeis.com:58888/rtp/233.50.201.230:5140
-#EXTINF:-1 tvg-id="" tvg-name="刘德华影院" tvg-logo="" group-title="电影",刘德华影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
-#EXTINF:-1 tvg-id="" tvg-name="周星驰影院" tvg-logo="" group-title="电影",周星驰影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
-#EXTINF:-1 tvg-id="" tvg-name="周星驰影院" tvg-logo="" group-title="电影",周星驰影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
-#EXTINF:-1 tvg-id="" tvg-name="成龙作品集" tvg-logo="" group-title="电影",成龙作品集
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",杰森·斯坦森
-http://121.51.249.99/txdirect.hls.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="张国荣影院" tvg-logo="" group-title="电影",张国荣影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
-#EXTINF:-1 tvg-id="" tvg-name="郭富城影院" tvg-logo="" group-title="电影",郭富城影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
-#EXTINF:-1 tvg-id="" tvg-name="吴京作品集" tvg-logo="" group-title="电影",吴京作品集
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368
-#EXTINF:-1 tvg-id="" tvg-name="古龙作品集" tvg-logo="" group-title="电影",古龙作品集
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-#EXTINF:-1 tvg-id="" tvg-name="林正英电影" tvg-logo="" group-title="电影",林正英电影
-https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="相声小品",德云社
-http://121.51.249.99/txdirect.hls.huya.com/src/1394575567-1394575567-5989656452065656832-2789274590-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="相声小品",搞笑相声综艺合集
-http://121.51.249.99/txdirect.hls.huya.com/src/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="相声小品",笑傲帮小品
-,http://121.51.249.99/txdirect.hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="乐视_动作电影" tvg-logo="" group-title="电影",乐视_动作电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu
-#EXTINF:-1 tvg-id="" tvg-name="乐视_经典电影" tvg-logo="" group-title="电影",乐视_经典电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying
-#EXTINF:-1 tvg-id="" tvg-name="乐视_综艺节目影" tvg-logo="" group-title="电影",乐视_综艺节目
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi
-#EXTINF:-1 tvg-id="" tvg-name="乐视_喜剧电影" tvg-logo="" group-title="电影",乐视_喜剧电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju
-#EXTINF:-1 tvg-id="" tvg-name="电影4" tvg-logo="" group-title="电影",电影4
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",华语影院
+
 http://oj33.ywmeis.com:58888/rtp/233.50.201.240:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",黄金剧场
+#EXTINF:-1 tvg-id="" tvg-name="黄金剧场" tvg-logo="" group-title="剧场",黄金剧场
 http://oj33.ywmeis.com:58888/rtp/233.50.201.241:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",白金剧场
+#EXTINF:-1 tvg-id="" tvg-name="白金剧场" tvg-logo="" group-title="剧场",白金剧场
 http://oj33.ywmeis.com:58888/rtp/233.50.201.234:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",谍战剧场
+#EXTINF:-1 tvg-id="" tvg-name="谍战剧场" tvg-logo="" group-title="剧场",谍战剧场
 http://oj33.ywmeis.com:58888/rtp/233.50.201.235:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="古装剧场" tvg-logo="" group-title="剧场",古装剧场
 http://oj33.ywmeis.com:58888/rtp/233.50.201.236:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",情感剧场
+#EXTINF:-1 tvg-id="" tvg-name="情感剧场" tvg-logo="" group-title="剧场",情感剧场
 http://oj33.ywmeis.com:58888/rtp/233.50.201.242:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",高分剧场
+#EXTINF:-1 tvg-id="" tvg-name="高分剧场" tvg-logo="" group-title="剧场",高分剧场
 http://oj33.ywmeis.com:58888/rtp/233.50.201.253:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",探索解密
+#EXTINF:-1 tvg-id="" tvg-name="探索解密" tvg-logo="" group-title="剧场",探索解密
 http://oj33.ywmeis.com:58888/rtp/233.50.201.254:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K超清
+#EXTINF:-1 tvg-id="" tvg-name="4K超清" tvg-logo="" group-title="剧场",4K超清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.243:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K测试1
+#EXTINF:-1 tvg-id="" tvg-name="4K测试1" tvg-logo="" group-title="剧场",4K测试1
 http://oj33.ywmeis.com:58888/rtp/233.50.201.225:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="精品纪录" tvg-logo="" group-title="剧场",精品纪录
 http://oj33.ywmeis.com:58888/rtp/233.50.201.89:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美味厨房
+#EXTINF:-1 tvg-id="" tvg-name="美味厨房" tvg-logo="" group-title="剧场",美味厨房
 http://oj33.ywmeis.com:58888/rtp/233.50.201.150:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫新番
+#EXTINF:-1 tvg-id="" tvg-name="动漫新番" tvg-logo="" group-title="剧场",动漫新番
 http://oj33.ywmeis.com:58888/rtp/233.50.201.252:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://oj33.ywmeis.com:58888/rtp/233.50.201.73:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咕噜动画
+#EXTINF:-1 tvg-id="" tvg-name="咕噜动画" tvg-logo="" group-title="剧场",咕噜动画
 http://oj33.ywmeis.com:58888/rtp/233.50.201.238:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://oj33.ywmeis.com:58888/rtp/233.50.201.74:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",第二课堂
+#EXTINF:-1 tvg-id="" tvg-name="第二课堂" tvg-logo="" group-title="剧场",第二课堂
 http://oj33.ywmeis.com:58888/rtp/233.50.201.245:5140
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="☘️浙江频道",中国教育一套
-http://oj33.ywmeis.com:58888/rtp/233.50.201.75:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="☘️浙江频道",中国教育四套
-http://oj33.ywmeis.com:58888/rtp/233.50.201.172:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN斗牛财经
+#EXTINF:-1 tvg-id="" tvg-name="CIBN斗牛财经" tvg-logo="" group-title="剧场",CIBN斗牛财经
 http://oj33.ywmeis.com:58888/rtp/233.50.201.247:5140
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
 http://oj33.ywmeis.com:58888/rtp/233.50.201.244:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热门综艺
+#EXTINF:-1 tvg-id="" tvg-name="热门综艺" tvg-logo="" group-title="剧场",热门综艺
 http://oj33.ywmeis.com:58888/rtp/233.50.201.233:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",体育赛事
+#EXTINF:-1 tvg-id="" tvg-name="体育赛事" tvg-logo="" group-title="体育",体育赛事
 http://oj33.ywmeis.com:58888/rtp/233.50.201.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",超级体育HD
+#EXTINF:-1 tvg-id="" tvg-name="超级体育HD" tvg-logo="" group-title="体育",超级体育HD
 http://oj33.ywmeis.com:58888/rtp/233.50.200.233:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",极速体育
+#EXTINF:-1 tvg-id="极速体育" tvg-name="极速体育" tvg-logo="" group-title="体育",极速体育
 http://oj33.ywmeis.com:58888/rtp/233.50.201.201:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",超凡体育
 http://oj33.ywmeis.com:58888/rtp/233.50.201.202:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",新威体育
+#EXTINF:-1 tvg-id="" tvg-name="新威体育" tvg-logo="" group-title="体育",新威体育
 http://oj33.ywmeis.com:58888/rtp/233.50.201.203:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",久看体育
+#EXTINF:-1 tvg-id="" tvg-name="久看体育" tvg-logo="" group-title="体育",久看体育
 http://oj33.ywmeis.com:58888/rtp/233.50.201.204:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",赛事直播-1
+#EXTINF:-1 tvg-id="" tvg-name="赛事直播-1" tvg-logo="" group-title="体育",赛事直播-1
 http://oj33.ywmeis.com:58888/rtp/233.50.201.205:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",赛事直播-2
+#EXTINF:-1 tvg-id="" tvg-name="赛事直播-2" tvg-logo="" group-title="体育",赛事直播-2
 http://oj33.ywmeis.com:58888/rtp/233.50.201.206:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",赛事直播-3
+#EXTINF:-1 tvg-id="" tvg-name="赛事直播-3" tvg-logo="" group-title="体育",赛事直播-3
 http://oj33.ywmeis.com:58888/rtp/233.50.201.207:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",极速体育HD
+#EXTINF:-1 tvg-id="" tvg-name="极速体育HD" tvg-logo="" group-title="体育",极速体育HD
 http://oj33.ywmeis.com:58888/rtp/233.50.201.209:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",超凡体育HD
+#EXTINF:-1 tvg-id="" tvg-name="超凡体育HD" tvg-logo="" group-title="体育",超凡体育HD
 http://oj33.ywmeis.com:58888/rtp/233.50.201.210:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",新威体育HD
+#EXTINF:-1 tvg-id="" tvg-name="新威体育HD" tvg-logo="" group-title="体育",新威体育HD
 http://oj33.ywmeis.com:58888/rtp/233.50.201.211:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",久看体育HD
+#EXTINF:-1 tvg-id="" tvg-name="久看体育HD" tvg-logo="" group-title="体育",久看体育HD
 http://oj33.ywmeis.com:58888/rtp/233.50.201.212:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",赛事直播-1HD 
+#EXTINF:-1 tvg-id="" tvg-name="赛事直播-1HD " tvg-logo="" group-title="体育",赛事直播-1HD 
 http://oj33.ywmeis.com:58888/rtp/233.50.201.213:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",赛事直播-2HD
+#EXTINF:-1 tvg-id="" tvg-name="赛事直播-2HD" tvg-logo="" group-title="体育",赛事直播-2HD
 http://oj33.ywmeis.com:58888/rtp/233.50.201.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",赛事直播-3HD
+#EXTINF:-1 tvg-id="" tvg-name="赛事直播-3HD" tvg-logo="" group-title="体育",赛事直播-3HD
 http://oj33.ywmeis.com:58888/rtp/233.50.201.215:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",广电体育频道1
+#EXTINF:-1 tvg-id="" tvg-name="广电体育频道1" tvg-logo="" group-title="体育",广电体育频道1
 http://oj33.ywmeis.com:58888/rtp/233.50.201.130:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",广电体育频道2
+#EXTINF:-1 tvg-id="" tvg-name="广电体育频道2" tvg-logo="" group-title="体育",广电体育频道2
 http://oj33.ywmeis.com:58888/rtp/233.50.201.131:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱看熊猫
+#EXTINF:-1 tvg-id="" tvg-name="爱看熊猫" tvg-logo="" group-title="未分类",爱看熊猫
 http://oj33.ywmeis.com:58888/rtp/233.50.201.193:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫宝宝幼儿园
+#EXTINF:-1 tvg-id="" tvg-name="熊猫宝宝幼儿园" tvg-logo="" group-title="未分类",熊猫宝宝幼儿园
 http://oj33.ywmeis.com:58888/rtp/233.50.201.194:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大熊猫的一天
+#EXTINF:-1 tvg-id="" tvg-name="大熊猫的一天" tvg-logo="" group-title="未分类",大熊猫的一天
 http://oj33.ywmeis.com:58888/rtp/233.50.201.195:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",在线执法
+#EXTINF:-1 tvg-id="" tvg-name="在线执法" tvg-logo="" group-title="未分类",在线执法
 http://oj33.ywmeis.com:58888/rtp/233.50.201.224:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠峰直播1
+#EXTINF:-1 tvg-id="" tvg-name="珠峰直播1" tvg-logo="" group-title="未分类",珠峰直播1
 http://oj33.ywmeis.com:58888/rtp/233.50.201.226:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠峰直播2
+#EXTINF:-1 tvg-id="" tvg-name="珠峰直播2" tvg-logo="" group-title="未分类",珠峰直播2
 http://oj33.ywmeis.com:58888/rtp/233.50.201.227:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",导视频道
+#EXTINF:-1 tvg-id="" tvg-name="导视频道" tvg-logo="" group-title="未分类",导视频道
 http://oj33.ywmeis.com:58888/rtp/233.50.201.20:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清导视
+#EXTINF:-1 tvg-id="" tvg-name="高清导视" tvg-logo="" group-title="未分类",高清导视
 http://oj33.ywmeis.com:58888/rtp/233.50.201.108:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-logo="" group-title="NewTV",NewTV中国功夫
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="NewTV家庭剧场" tvg-logo="" group-title="NewTV",NewTV家庭剧场
 http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV家庭剧场2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="NewTV家庭剧场2" group-title="NewTV",NewTV家庭剧场2
 http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="NewTV惊悚悬疑" group-title="NewTV",NewTV惊悚悬疑
 http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-logo="" group-title="NewTV",NewTV潮妈辣婆
 http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="" tvg-name="NewTV爱情喜剧" tvg-logo="" group-title="NewTV",NewTV爱情喜剧
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="" group-title="NewTV",NewTV精品体育
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-logo="" group-title="NewTV",NewTV精品大剧
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品纪录
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
@@ -747,84 +710,34 @@ http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
 
 #☘️浙江频道#
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",钱江频道高清
+#EXTINF:-1 tvg-id="" tvg-name="钱江频道高清" tvg-logo="" group-title="☘️浙江频道",钱江频道高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.132:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",浙江经视高清
+#EXTINF:-1 tvg-id="" tvg-name="浙江经视高清" tvg-logo="" group-title="☘️浙江频道",浙江经视高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.133:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",教科影视高清
+#EXTINF:-1 tvg-id="教科影视高清" tvg-name="教科影视高清" tvg-logo="" group-title="☘️浙江频道",教科影视高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.134:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",浙江新闻高清
+#EXTINF:-1 tvg-id="浙江新闻高清" tvg-name="浙江新闻高清" tvg-logo="" group-title="☘️浙江频道",浙江新闻高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.137:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",民生休闲高清
+#EXTINF:-1 tvg-id="民生休闲高清" tvg-name="民生休闲高清" tvg-logo="" group-title="☘️浙江频道",民生休闲高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.136:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",浙江少儿高清
+#EXTINF:-1 tvg-id="浙江少儿高清" tvg-name="浙江少儿高清" tvg-logo="" group-title="☘️浙江频道",浙江少儿高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.138:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",金华新闻综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.161:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",兰溪综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",数码时代
+#EXTINF:-1 tvg-id="数码时代" tvg-name="数码时代" tvg-logo="" group-title="☘️浙江频道",数码时代
 http://oj33.ywmeis.com:58888/rtp/233.50.201.223:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州导视高清
+#EXTINF:-1 tvg-id="杭州导视高清" tvg-name="杭州导视高清" tvg-logo="" group-title="☘️浙江频道",杭州导视高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州新闻高清
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="" group-title="☘️浙江频道",杭州综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.21:5140
+#EXTINF:-1 tvg-id="杭州新闻高清" tvg-name="杭州新闻高清" tvg-logo="" group-title="☘️浙江频道",杭州新闻高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.173:5140
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="☘️浙江频道",杭州明珠高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.174:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州生活高清
+#EXTINF:-1 tvg-id="杭州生活高清" tvg-name="杭州生活高清" tvg-logo="" group-title="☘️浙江频道",杭州生活高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.175:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州影视高清
+#EXTINF:-1 tvg-id="杭州影视高清" tvg-name="杭州影视高清" tvg-logo="" group-title="☘️浙江频道",杭州影视高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州亚运高清
+#EXTINF:-1 tvg-id="杭州青少体育高清" tvg-name="杭州青少体育高清" tvg-logo="" group-title="☘️浙江频道",杭州青少体育高清
 http://oj33.ywmeis.com:58888/rtp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波综合高清
-http://oj33.ywmeis.com:58888/rtp/233.50.201.168:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波二套高清
-http://oj33.ywmeis.com:58888/rtp/233.50.201.178:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波三套高清
-http://oj33.ywmeis.com:58888/rtp/233.50.201.179:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波四套高清
-http://oj33.ywmeis.com:58888/rtp/233.50.201.180:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波五套高清
-http://oj33.ywmeis.com:58888/rtp/233.50.201.181:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.21:5140
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="☘️浙江频道",西湖明珠
-http://oj33.ywmeis.com:58888/rtp/233.50.201.22:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州生活
-http://oj33.ywmeis.com:58888/rtp/233.50.201.23:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州影视
-http://oj33.ywmeis.com:58888/rtp/233.50.201.24:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",杭州青少体育
-http://oj33.ywmeis.com:58888/rtp/233.50.201.25:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",馀杭新闻综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.159:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.151:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波生活
-http://oj33.ywmeis.com:58888/rtp/233.50.201.152:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波都市
-http://oj33.ywmeis.com:58888/rtp/233.50.201.153:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波影视
-http://oj33.ywmeis.com:58888/rtp/233.50.201.154:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",宁波少体
-http://oj33.ywmeis.com:58888/rtp/233.50.201.167:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",温州一套
-http://oj33.ywmeis.com:58888/rtp/233.50.201.87:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",绍兴新闻综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.156:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",湖州公共频道
-http://oj33.ywmeis.com:58888/rtp/233.50.201.158:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",嘉兴新闻综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.163:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",衢州新闻综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.155:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",台州一套测试
-http://oj33.ywmeis.com:58888/rtp/233.50.201.157:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",丽水新闻综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.162:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☘️浙江频道",桐乡新闻综合
-http://oj33.ywmeis.com:58888/rtp/233.50.201.169:5140
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang5.png" group-title="☘️浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang7.png" group-title="☘️浙江频道",浙江国际
@@ -841,8 +754,58 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="☘️浙江频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="☘️浙江频道",西湖明珠
+http://oj33.ywmeis.com:58888/rtp/233.50.201.22:5140
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="" group-title="☘️浙江频道",杭州生活
+http://oj33.ywmeis.com:58888/rtp/233.50.201.23:5140
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="" group-title="☘️浙江频道",杭州影视
+http://oj33.ywmeis.com:58888/rtp/233.50.201.24:5140
+#EXTINF:-1 tvg-id="杭州青少体育" tvg-name="杭州青少体育" tvg-logo="" group-title="☘️浙江频道",杭州青少体育
+http://oj33.ywmeis.com:58888/rtp/233.50.201.25:5140
 #EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://live.fanmingming.cn/tv/萧山综合.png" group-title="☘️浙江频道",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="余杭新闻综合" tvg-name="余杭新闻综合" tvg-logo="" group-title="☘️浙江频道",余杭新闻综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.159:5140
+#EXTINF:-1 tvg-id="宁波综合高清" tvg-name="宁波综合高清" tvg-logo="" group-title="☘️浙江频道",宁波综合高清
+http://oj33.ywmeis.com:58888/rtp/233.50.201.167:5140
+#EXTINF:-1 tvg-id="宁波综合高清" tvg-name="宁波综合高清" tvg-logo="" group-title="☘️浙江频道",宁波综合高清
+http://oj33.ywmeis.com:58888/rtp/233.50.201.151:5140
+#EXTINF:-1 tvg-id="宁波生活" tvg-name="宁波生活" tvg-logo="" group-title="☘️浙江频道",宁波生活
+http://oj33.ywmeis.com:58888/rtp/233.50.201.152:5140
+#EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="" group-title="☘️浙江频道",宁波都市
+http://oj33.ywmeis.com:58888/rtp/233.50.201.153:5140
+#EXTINF:-1 tvg-id="宁波影视" tvg-name="宁波影视" tvg-logo="" group-title="☘️浙江频道",宁波影视
+http://oj33.ywmeis.com:58888/rtp/233.50.201.154:5140
+#EXTINF:-1 tvg-id="宁波少体" tvg-name="宁波少体" tvg-logo="" group-title="☘️浙江频道",宁波少体
+http://oj33.ywmeis.com:58888/rtp/233.50.201.168:5140
+#EXTINF:-1 tvg-id="宁波二套高清" tvg-name="宁波二套高清" tvg-logo="" group-title="☘️浙江频道",宁波二套高清
+http://oj33.ywmeis.com:58888/rtp/233.50.201.178:5140
+#EXTINF:-1 tvg-id="宁波三套高清" tvg-name="宁波三套高清" tvg-logo="" group-title="☘️浙江频道",宁波三套高清
+http://oj33.ywmeis.com:58888/rtp/233.50.201.179:5140
+#EXTINF:-1 tvg-id="宁波四套高清" tvg-name="宁波四套高清" tvg-logo="" group-title="☘️浙江频道",宁波四套高清
+http://oj33.ywmeis.com:58888/rtp/233.50.201.180:5140
+#EXTINF:-1 tvg-id="宁波五套高清" tvg-name="宁波五套高清" tvg-logo="" group-title="☘️浙江频道",宁波五套高清
+http://oj33.ywmeis.com:58888/rtp/233.50.201.181:5140
+#EXTINF:-1 tvg-id="金华新闻综合" tvg-name="金华新闻综合" tvg-logo="" group-title="☘️浙江频道",金华新闻综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.161:5140
+#EXTINF:-1 tvg-id="兰溪综合" tvg-name="兰溪综合" tvg-logo="" group-title="☘️浙江频道",兰溪综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-id="温州一套" tvg-name="温州一套" tvg-logo="" group-title="☘️浙江频道",温州一套
+http://oj33.ywmeis.com:58888/rtp/233.50.201.87:5140
+#EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="" group-title="☘️浙江频道",绍兴新闻综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.156:5140
+#EXTINF:-1 tvg-id="湖州公共频道" tvg-name="湖州公共频道" tvg-logo="" group-title="☘️浙江频道",湖州公共频道
+http://oj33.ywmeis.com:58888/rtp/233.50.201.158:5140
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="" group-title="☘️浙江频道",嘉兴新闻综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.163:5140
+#EXTINF:-1 tvg-id="衢州新闻综合" tvg-name="衢州新闻综合" tvg-logo="" group-title="☘️浙江频道",衢州新闻综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.155:5140
+#EXTINF:-1 tvg-id="台州一套测试" tvg-name="台州一套测试" tvg-logo="" group-title="☘️浙江频道",台州一套测试
+http://oj33.ywmeis.com:58888/rtp/233.50.201.157:5140
+#EXTINF:-1 tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" tvg-logo="" group-title="☘️浙江频道",丽水新闻综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.162:5140
+#EXTINF:-1 tvg-id="桐乡新闻综合" tvg-name="桐乡新闻综合" tvg-logo="" group-title="☘️浙江频道",桐乡新闻综合
+http://oj33.ywmeis.com:58888/rtp/233.50.201.169:5140
 #EXTINF:-1 tvg-name="象山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/象山新闻综合.png" group-title="☘️浙江频道",象山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 tvg-name="文成新闻综合" tvg-logo="https://live.fanmingming.cn/tv/文成新闻综合.png" group-title="☘️浙江频道",文成新闻综合
