@@ -492,16 +492,24 @@ http://oj33.ywmeis.com:58888/rtp/233.50.201.252:5140
 http://oj33.ywmeis.com:58888/rtp/233.50.201.73:5140
 #EXTINF:-1 tvg-id="" tvg-name="咕噜动画" tvg-logo="" group-title="剧场",咕噜动画
 http://oj33.ywmeis.com:58888/rtp/233.50.201.238:5140
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
-http://oj33.ywmeis.com:58888/rtp/233.50.201.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="第二课堂" tvg-logo="" group-title="剧场",第二课堂
 http://oj33.ywmeis.com:58888/rtp/233.50.201.245:5140
 #EXTINF:-1 tvg-id="" tvg-name="CIBN斗牛财经" tvg-logo="" group-title="剧场",CIBN斗牛财经
 http://oj33.ywmeis.com:58888/rtp/233.50.201.247:5140
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
-http://oj33.ywmeis.com:58888/rtp/233.50.201.244:5140
 #EXTINF:-1 tvg-id="" tvg-name="热门综艺" tvg-logo="" group-title="剧场",热门综艺
 http://oj33.ywmeis.com:58888/rtp/233.50.201.233:5140
+#EXTINF:-1 tvg-id="" tvg-name="在线执法" tvg-logo="" group-title="剧场",在线执法
+http://oj33.ywmeis.com:58888/rtp/233.50.201.224:5140
+#EXTINF:-1 tvg-id="" tvg-name="珠峰直播1" tvg-logo="" group-title="剧场",珠峰直播1
+http://oj33.ywmeis.com:58888/rtp/233.50.201.226:5140
+#EXTINF:-1 tvg-id="" tvg-name="珠峰直播2" tvg-logo="" group-title="剧场",珠峰直播2
+http://oj33.ywmeis.com:58888/rtp/233.50.201.227:5140
+#EXTINF:-1 tvg-id="" tvg-name="导视频道" tvg-logo="" group-title="剧场",导视频道
+http://oj33.ywmeis.com:58888/rtp/233.50.201.20:5140
+#EXTINF:-1 tvg-id="" tvg-name="高清导视" tvg-logo="" group-title="剧场",高清导视
+http://oj33.ywmeis.com:58888/rtp/233.50.201.108:5140
+
+
 #EXTINF:-1 tvg-id="" tvg-name="体育赛事" tvg-logo="" group-title="体育",体育赛事
 http://oj33.ywmeis.com:58888/rtp/233.50.201.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="超级体育HD" tvg-logo="" group-title="体育",超级体育HD
@@ -686,6 +694,10 @@ http://pull.dayuntongzhou.com/live/tztv.m3u8
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 #☘️上海频道#
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="☘️上海频道",新视觉
+http://oj33.ywmeis.com:58888/rtp/233.50.201.244:5140
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="☘️上海频道",哈哈炫动
+http://oj33.ywmeis.com:58888/rtp/233.50.201.74:5140
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="☘️上海频道",纪实人文
 http://b.zgjok.com:35455/itv/5000000004000010282.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
@@ -849,16 +861,6 @@ http://oj33.ywmeis.com:58888/rtp/233.50.201.193:5140
 http://oj33.ywmeis.com:58888/rtp/233.50.201.194:5140
 #EXTINF:-1 tvg-id="" tvg-name="大熊猫的一天" tvg-logo="" group-title="☘️四川频道",大熊猫的一天
 http://oj33.ywmeis.com:58888/rtp/233.50.201.195:5140
-#EXTINF:-1 tvg-id="" tvg-name="在线执法" tvg-logo="" group-title="未分类",在线执法
-http://oj33.ywmeis.com:58888/rtp/233.50.201.224:5140
-#EXTINF:-1 tvg-id="" tvg-name="珠峰直播1" tvg-logo="" group-title="未分类",珠峰直播1
-http://oj33.ywmeis.com:58888/rtp/233.50.201.226:5140
-#EXTINF:-1 tvg-id="" tvg-name="珠峰直播2" tvg-logo="" group-title="未分类",珠峰直播2
-http://oj33.ywmeis.com:58888/rtp/233.50.201.227:5140
-#EXTINF:-1 tvg-id="" tvg-name="导视频道" tvg-logo="" group-title="未分类",导视频道
-http://oj33.ywmeis.com:58888/rtp/233.50.201.20:5140
-#EXTINF:-1 tvg-id="" tvg-name="高清导视" tvg-logo="" group-title="未分类",高清导视
-http://oj33.ywmeis.com:58888/rtp/233.50.201.108:5140
 
 
 #☘️辽宁频道#
