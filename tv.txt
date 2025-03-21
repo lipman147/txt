@@ -1168,6 +1168,14 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/ningxia/Ningxia4.png" group-title="☘️宁夏频道",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+#EXTINF:-1 group-title="☘️宁夏频道",兰州公共 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
+#EXTINF:-1 group-title="☘️宁夏频道",兰州新闻综合 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 group-title="☘️宁夏频道",兰州生活经济 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
+#EXTINF:-1 group-title="☘️宁夏频道",兰州综艺体育 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 
 #☘️甘肃/5个频道
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu2.png" group-title="☘️甘肃频道",甘肃经济
@@ -1180,6 +1188,16 @@ https://hls.gstv.com.cn/49048r/l54391.m3u8
 https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu3.png" group-title="☘️甘肃频道",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+#EXTINF:-1 group-title="☘️甘肃频道",甘肃公共应急 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
+#EXTINF:-1 group-title="☘️甘肃频道",甘肃少儿 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+#EXTINF:-1 group-title="☘️甘肃频道",甘肃文化影视 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
+#EXTINF:-1 group-title="☘️甘肃频道",甘肃经济 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:-1 group-title="☘️甘肃频道",甘肃都市 8M1080
+http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
 
 #☘️海南/5个频道
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hainan/Hainan2.png" group-title="☘️海南频道",海南新闻
@@ -1958,30 +1976,11 @@ http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实人文 4M1080
 http://39.134.39.39/PLTV/88888888/224/3221226174/index.m3u8
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃公共应急 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃少儿 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃文化影视 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃经济 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃都市 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="☘️兰州频道",兰州公共 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
-#EXTINF:-1 group-title="☘️兰州频道",兰州新闻综合 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="☘️兰州频道",兰州生活经济 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
-#EXTINF:-1 group-title="☘️兰州频道",兰州综艺体育 8M1080
-http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 
 #EXTINF:-1 group-title="北京" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",北京纪实
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
 #EXTINF:-1 group-title="北京" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",北京冬奥纪实 8M1080
 http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
-
 #EXTINF:-1 group-title="北京" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png",BTV影视
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 #EXTINF:-1 group-title="北京" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",BTV文艺
