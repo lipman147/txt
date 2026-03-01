@@ -18,5 +18,4 @@ vless://YXV0bzoyZmExNjNhZi00MzI4LTQxZjgtZDgyYy05NGI3YmQ1MmIzNTRAdXMuYmFub29zLmNv
 vless://YXV0bzo4YTAxN2E1Ny03YzQ4LTQzN2UtOTM3MC1kYzc3YWFiNmE2ZGVAdXMuYmFub29zLmNvbToyMjE0NQ?remarks=G_US_WeiFengC&tls=1&peer=www.icloud.com&allowInsecure=1&xtls=2&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4
 vmess://YXV0bzo0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjRAMTA0LjIwLjQuMjE6NDQz?path=/www.40587333.xyz:443/footers&remarks=zhichi%20chat&obfsParam=hello-world-patient-sunset-2841.allenchengji.workers.dev&obfs=websocket&tls=1&peer=hello-world-patient-sunset-2841.allenchengji.workers.dev&alterId=64
 vless://YXV0bzpkMzQyZDExZS1kNDI0LTQ1ODMtYjM2ZS01MjRhYjFmMGFmYTRAYWNoay5jbG91ZGZsYXJlc3QubGluazo0NDM?path=/%3Fed%3D2048&remarks=vps20230725&obfsParam=vps20230725.david2165.workers.dev&obfs=websocket
-vmess://YXV0bzphZDgwNjQ4Ny0yZDI2LTQ2MzYtOThiNi1hYjg1Y2M4NTIxZjdAb3JhbmdlLWhlYXJ0LWU1NDcuZGF2aWQyMTY1LndvcmtlcnMuZGV2OjQ0Mw?remarks=heroku&obfs=websocket&tls=1&allowInsecure=1&alterId=1
-vmess://YXV0bzphZDgwNjQ4Ny0yZDI2LTQ2MzYtOThiNi1hYjg1Y2M4NTIxZjdAb3JhbmdlLWhlYXJ0LWU1NDcuZGF2aWQyMTY1LndvcmtlcnMuZGV2OjQ0Mw?remarks=heroku&obfs=websocket&tls=1&allowInsecure=1&alterId=1
+vmess://YXV0bzphZDgwNjQ4Ny0yZDI2LTQ2MzYtOThiNi1hYjg1Y2M4NTIxZjdAdnJheTIwMjExMTA4Lmhlcm9rdWFwcC5jb206NDQz?remarks=v2ray-Heroku.20211108&obfs=websocket&tls=1&allowInsecure=1&alterId=1
